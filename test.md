@@ -1,3 +1,3 @@
 layout: page
 title: "test"
-permalink: /URL-PATH/
+permalink: https://moogster10.github.io/moogster/test

@@ -4,7 +4,9 @@ You can use the [editor on GitHub](https://github.com/moogster10/moogster/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[STAR PAGE](https://github.com/moogster10/moogster/page2)
+[TEST PAGE](https://github.com/moogster10/moogster/test)
+
+[STAR PAGE](https://github.com/moogster10/moogster/star)
 
 ### Markdown
 

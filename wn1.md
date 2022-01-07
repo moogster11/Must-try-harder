@@ -17,6 +17,7 @@
 
 ## Current students
 - Top tasks - Back end of January
+	- ACTION Email JL
 - Overview of research plan NOTE - what we think students 'like' and ‘want’ 
 - Change of service panels on My Hallam
 	- Specialist service VS access to Knowledgebase

@@ -8,11 +8,12 @@
 # Current students
 ## Knowledgebase
 - ACTION - Colin Tayor - Additional workflow features
+- ACTION - Check if GA implemented
+- ACTION - Raise Assyst ticket for Funnelback search access
 - PRESENTATION - Colin Tayor - 31st Jan meeting with Leadership team
 - Finalising writing guidance
 - Key word bank
-- ACTION - Check if GA implemented
-- ACTION - Raise Assyst ticket for Funnelback search access
+
 
 ## Current students
 - Top tasks - Back end of January

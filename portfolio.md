@@ -21,6 +21,8 @@ Pipeline
 - study here
 
 
+WE HAVE TO FIND OUR OWN PROBLEMS
+
 Discovery sessions
 Miro
 Figma

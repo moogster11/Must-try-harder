@@ -18,7 +18,7 @@ STAR SYSTEM
 Other projects
 
 Pipeline
-- study here
+- 
 
 
 WE HAVE TO FIND OUR OWN PROBLEMS
@@ -28,12 +28,13 @@ Miro
 Figma
 
 Solving problems
-
 Knowledgebase
-
 Current students
 
 Agile working
 
 Research trello
+
+Numbers
+Study here
 

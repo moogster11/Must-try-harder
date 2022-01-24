@@ -26,9 +26,11 @@ Sitecore training offer
 First stage prototype
 
 Design system
+```
 Content reccomendations for experience area
 Finalise design 
 Introduction on how to manage area
+```
 
 # CCMS 
 Working through first draft of area

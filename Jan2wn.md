@@ -6,10 +6,13 @@
 Requirements and scope finalised
 
 Study Here 
+
+```
 Finalising user needs bank for 2 areas
 Feedback / engagement with stakeholder
 Remaining user sessions scheduled 
 Present IA options Adam / Georgina
+```
 
 # Sheffield campaign landing page
 

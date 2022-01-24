@@ -5,7 +5,7 @@
 # Sitecore forms proof of concept
 Requirements and scope finalised
 
-Study Here 
+# Study Here 
 
 ```
 Finalising user needs bank for 2 areas
@@ -15,6 +15,9 @@ Present IA options Adam / Georgina
 ```
 
 # Sheffield campaign landing page
+```
+Prototype Sheffield design and sitemap supplied
+```
 
 # Course open day form
 Prototype of COD experience

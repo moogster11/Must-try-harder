@@ -30,6 +30,23 @@ Introduction on how to manage area
 # CCMS 
 Working through first draft of area
 
+# Knowledgebase / current students
+Prototype of top tasks survey for JL
+Writing guide
+Presentation with SAS Leadership 
+Wider research review plan
+Funnelback
+
+# JIRA 
+Review JIRA usage
+
+# Design system 
+Forms kitchen sink (developer)
+
+# Business 
+Business form update
+
+
 
 
 

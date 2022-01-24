@@ -28,7 +28,7 @@ Content review
 Sitecore training offer
 First stage prototype
 
-Design system
+# Design system
 ```
 Content reccomendations for experience area
 Finalise design 
@@ -38,7 +38,7 @@ Introduction on how to manage area
 # CCMS 
 Working through first draft of area
 
-Knowledgebase / current students
+# Knowledgebase / current students
 Prototype of top tasks survey for JL
 Writing guide
 Presentation with SAS Leadership 

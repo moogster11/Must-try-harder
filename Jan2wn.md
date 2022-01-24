@@ -5,7 +5,7 @@
 # Sitecore forms proof of concept
 Requirements and scope finalised
 
-# Study Here 
+Study Here 
 Finalising user needs bank for 2 areas
 Feedback / engagement with stakeholder
 Remaining user sessions scheduled 
@@ -19,10 +19,10 @@ Prototype of COD experience
 # Nursery
 Content review
 
-# Sitecore training offer
+Sitecore training offer
 First stage prototype
 
-# Design system
+Design system
 Content reccomendations for experience area
 Finalise design 
 Introduction on how to manage area
@@ -30,7 +30,7 @@ Introduction on how to manage area
 # CCMS 
 Working through first draft of area
 
-# Knowledgebase / current students
+Knowledgebase / current students
 Prototype of top tasks survey for JL
 Writing guide
 Presentation with SAS Leadership 

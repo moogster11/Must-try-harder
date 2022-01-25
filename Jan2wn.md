@@ -20,13 +20,20 @@ Prototype Sheffield design and sitemap supplied
 ```
 
 # Course open day form
-Prototype of COD experience
+```
+Design stage - first prototype of COD experience
+```
 
 # Nursery
-Content review
+```
+Finalise content review
+Link pages to MIRO IA
+```
 
-Sitecore training offer
-First stage prototype
+# Sitecore training offer
+```
+First stage prototype in Linked In
+```
 
 # Design system
 ```
@@ -36,23 +43,33 @@ Introduction on how to manage area
 ```
 
 # CCMS 
+```
 Working through first draft of area
+```
 
 # Knowledgebase / current students
-Prototype of top tasks survey for JL
-Writing guide
+```
+Prototype of top tasks survey approach
+Writing guidelines created
 Presentation with SAS Leadership 
 Wider research review plan
-Funnelback
+Funnelback review
+```
 
 # JIRA 
+```
 Review JIRA usage
+```
 
 # Design system 
+```
 Forms kitchen sink (developer)
+```
 
 # Business 
+```
 Business form update
+```
 
 
 

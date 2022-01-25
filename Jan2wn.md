@@ -1,9 +1,15 @@
 
 # Website backlog
-4.5 to be released on w/c 7th Februry
+
+```
+4.5 to be released on w/c 7th February
+```
 
 # Sitecore forms proof of concept
+
+```
 Requirements and scope finalised
+```
 
 # Study Here 
 
@@ -30,7 +36,8 @@ Finalise content review
 Link pages to MIRO IA
 ```
 
-# Sitecore training offer
+# Sitecore training offer
+
 ```
 First stage prototype in Linked In
 ```
@@ -61,7 +68,7 @@ Funnelback review
 Review JIRA usage
 ```
 
-# Design system 
+# Design system 
 ```
 Forms kitchen sink (developer)
 ```

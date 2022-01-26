@@ -13,17 +13,16 @@ Requirements and scope finalised
 
 ## Study Here 
 
-```
+
 Finalising user needs bank for 2 areas
 Feedback / engagement with stakeholder
 Remaining user sessions scheduled 
-Present IA options Adam / Georgina
-```
+Present [IA options](https://docs.google.com/spreadsheets/d/1jw8AtEIr3-GHQOui9OVxNDqX5QTYjLUzFxTsWsHME4A/edit?usp=sharing) Adam / Georgina
+
 
 ## Sheffield campaign landing page
-```
-Prototype Sheffield design and sitemap supplied
-```
+
+Prototype Sheffield [design and sitemap](https://miro.com/app/board/uXjVOTpMg1o=/?invite_link_id=755040111097) supplied
 
 ## Course open day form
 ```

@@ -15,9 +15,10 @@ Requirements and scope finalised
 
 
 Finalising user needs bank for 2 areas
-Feedback / engagement with stakeholder
+
 Remaining user sessions scheduled 
-Present [IA options](https://docs.google.com/spreadsheets/d/1jw8AtEIr3-GHQOui9OVxNDqX5QTYjLUzFxTsWsHME4A/edit?usp=sharing) Adam / Georgina
+
+Present [IA options](https://docs.google.com/spreadsheets/d/1jw8AtEIr3-GHQOui9OVxNDqX5QTYjLUzFxTsWsHME4A/edit?usp=sharing) to marketing stakeholders
 
 
 ## Sheffield campaign landing page

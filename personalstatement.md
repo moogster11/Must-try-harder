@@ -1,4 +1,22 @@
 /Principles to get across/
+
+```
+The CAR approach
+Context - Explain the situation; what, where and when. Simply describe the challenge that you faced. Give the reader some background, just enough to set the scene.
+
+Actions - Make sure that you explain how you did something not just what you did. What action or steps did you take? How did you do it? For some jobs, it might be quite detailed, but don’t talk about every single thing. Summarise as best as you can.
+
+Results - What was the outcome? What results did you achieve? Talk about the results. Use numbers and percentages whenever possible. Remember if your result is not positive, describe what you have learnt.
+```
+
+```
+• What tools, agile techniques and processes have you used in an multi-functional team to ensure everyone is involved 
+  and high-performing.
+• How you engaged a variety of stakeholders to agree on work you’ve been responsible for.
+• Where you were able to create effective change and improve products or ways of working.
+• How you contributed to ensuring effective decisions are made and actioned to ensure delivery of work.
+```
+
   
 Collaborate. Deliver. Reflect. Improve
 

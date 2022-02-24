@@ -79,7 +79,45 @@ Through the following I deliver and improve digital experiences.
 
 ### Where you were able to create effective change and improve products or ways of working.
 
+```
+Discovery
 
+It was identitified that the main booking interface for booking onto a university open day was on a legacy platform that needed to be removed. The booking interface required multiple levels of session types for the user to book plus relational sessions and personal itinary management. The interface was integrated with a non-documented legacy CRM system so this added another level of complexity. I decided to look at this as the legacy systems and design were non-supported yet open day attendance was the highest converter for new students.
+
+Actions taken 
+Used Google analyitics to analyse number of drop outs at specific stages focusing on mobile.
+I analysed heatmaps and video to understand pain points and design issues on mobile.
+Collated journey flows for the as-is journey.
+
+Findings
+1. The desktop version had to be used for mobile and this was causing the users to abandon in high rates during the multi-session booking stage.
+2. The majority of bookings were through users who managed to book from a mobile.
+3. Although the interface did support the majority of signups, the design and content would need to be adpated for a mobile orientated experience.
+4. User interviews found the emailed itinery (PDF) essential for planning their day. 
+
+Constraints
+As the CRM was going out of support a decision was made to not support further development so any improvements would need to be made through the interface.
+
+What happend next
+I ran workshops with the team to map user flows and look for opportunities to improve. I created high fidelity wireframes to support buyin from stakeholders to undertake the work (as it was so important there was a retiscence to change). 
+Worked with design team to create high-fidelity prototypes.
+Created product goals and sprint plans to deliver over 10 weeks.
+We created an extra step in the journey to serve the user an amendable itinery before confirmin attendence.
+Set up alpha stage testing with users and business owners.
+Created a measurement and monitoring plan for launch (errors
+
+
+
+
+
+Design
+Briefed design teams on opportunities and requirements.
+Set vision for the wider team with regards to the imporvements that could be made (within parameters of legacy CRM)
+
+Delivery
+
+Results - What was the outcome? What results did you achieve? Talk about the results. Use numbers and percentages whenever possible. Remember if your result is not positive, describe what you have learnt.
+```
 
   
   

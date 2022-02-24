@@ -7,17 +7,19 @@ Proven track record in delivering digital transformational change through managi
 
 **Design and delivery and management of**
 - Main website backlog creation and management
-- Online prospectus
-- Organisation research offer journeys
-- Prospective students recruitment core journeys and web area
-- Current students support services
-- Current students support knowledgebase optimisation
+- Online prospectus. Helping prospective students find the right course and study option for them.
+- Organisation research offer journeys. Connecting our research touchpoints, from staff to projects to research centres to institutes
+- Prospective students 'Why study' area. Why should I choose this organisation to study with
+- Current students support services. Helping users find the right support information and service.
+- Current students support knowledgebase optimisation. Improving the standard and findability of support information.
 - Sheffield Hallam University design system
 - Staff profiles integration
-- SHU homepage
+- SHU homepage delivery and optimisation
 - New student onboarding journey
 - PHD enquiry methods optimisation
 - Accessibility roadmap and monitoring
+- Design and optimisation of event management and booking product
+- Design and integration of CMS forms and form design system
 
 
 ### Career History

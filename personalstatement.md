@@ -104,20 +104,18 @@ Worked with design team to create high-fidelity prototypes.
 Created product goals and sprint plans to deliver over 10 weeks.
 We created an extra step in the journey to serve the user an amendable itinery before confirmin attendence.
 Set up alpha stage testing with users and business owners.
-Created a measurement and monitoring plan for launch (errors
+Worked with the team to create a measurement and monitoring plan for launch (fault monitoring, year on year conversion comparisons, traffic) which was used to engage with stakeholders post-launch
+
+Outcomes
+Against comparable activity mobile conversion almost doubled 20.3% > 38.84% and desktop rose around 10% 31% > 40.5%
+Improved accessibility scoring (AA)
+New product is being integrated as part of a new CRM project with further optimisation.
 
 
 
 
 
-Design
-Briefed design teams on opportunities and requirements.
-Set vision for the wider team with regards to the imporvements that could be made (within parameters of legacy CRM)
 
-Delivery
-
-Results - What was the outcome? What results did you achieve? Talk about the results. Use numbers and percentages whenever possible. Remember if your result is not positive, describe what you have learnt.
-```
 
   
   

@@ -1,7 +1,7 @@
 
 
-An experienced design leader, with private and HE sector experience of delivering design solutions in complex and pressured environments. 
-Proven track record in delivering large scale digital transformational change through managing high performing design teams, cultivating the environment for collaboration, inspiring confidence, problem solving and pragmatism. Extensive experience in defining the case for digital change and delivering solutions, confirming alignment with organisational goals and ensuring customer needs remain central to the proposed programmes of work and solutions. A clear communicator with the ability to make the complex simple, build relationships, influence, challenge and collaborate across all levels of an organisation and motivate teams to deliver quality design outcomes.
+An experienced design leader, with private and HE sector experience of delivering and managing digital products in complex and pressured environments. 
+Proven track record in delivering digital transformational change through managing high performing multi-functional teams, cultivating the environment for collaboration, inspiring confidence, problem solving and pragmatism. Extensive experience in defining the case for digital change and delivering solutions, confirming alignment with organisational goals and ensuring customers needs remain central to the proposed programmes of work and solutions. A clear communicator with the ability to make the complex simple, build relationships, influence, inspire, challenge and collaborate across all levels of an organisation and motivate teams to deliver quality digital outcomes.
 
 ### Key digital projects delivered
 

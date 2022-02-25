@@ -70,6 +70,60 @@ Through the following I deliver and improve digital experiences.
 
 ### How you engaged a variety of stakeholders to agree on work you’ve been responsible for.
 
+- Conducted competitor analysis or market scanning, and created actions or recommendations
+- Define a product or service vision
+- Described how a product or service vision contributes to the wider business goals
+- Created or updated a product strategy, including a value proposition (e.g. business model canvas)
+- Created or updated a product roadmap, including outcomes and performance goals
+- Identified and analysed stakeholders
+- Created and communicated stakeholder comms
+  - Represented or evangelised for my product or service outside of my department or organisation
+
+Research
+```
+The CAR approach
+Context - Explain the situation; what, where and when. Simply describe the challenge that you faced. Give the reader some background, just enough to set the scene.
+```
+
+I was tasked with analysing the orgainsations digital research offer with a view to rebuilding its digital presence. The challenge was to rebuild over 30 separate sub-sites which were being restructured under three virtual institutes with no real presence. The vision was to use digital to demonstrate a ‘viable, active and credible’ research establishment and community.
+
+This vision and approach was to be presented to the Research Leadership Group which was the core research leadership team and represented over 15 key sectors and specialisms. In total I had around 20mins to deliver a vision for a piece of work that would take 18 months.
+
+```Actions - Make sure that you explain how you did something not just what you did. What action or steps did you take? How did you do it? For some jobs, it might be quite detailed, but don’t talk about every single thing. Summarise as best as you can.
+```
+Created a vision deck to take stakeholders through - this included
+Setting the scene through the of playback stakeholder insights from various interviews which had taken place. This was to address concerns and distill those concerns into a viable business proposition.
+
+Analysis
+I presented user behaviour on the current site pulling out key issues whihc aligned with their concerns. Including design analysis of how current design of their areas did not support current goals and examples of competitors and best practice. Comparitive review of centre sites architecture to show variation in approach but also opportunities to standardise the approach.
+
+
+Vision and outcomes
+- the ability to highlight the most influential information on pages
+- ability to showcase the wider research network through multiple user access points
+
+
+MVP scope to be scaled across sub-sites
+- technically built to improve search performance (canonicals and metadata approach)
+- ensure forward journeys from high value entrance page - profiles / projects / centres 
+- consistency of content across areas
+- apply improved navigation
+- support training of staff to ensure local ownership
+- a focus on accessibility
+
+I presented a phased plan and roadmap including
+- high level goals
+- measurement plan
+- build priority order
+- 
+
+
+
+
+
+
+```Results - What was the outcome? What results did you achieve? Talk about the results. Use numbers and percentages whenever possible. Remember if your result is not positive, describe what you have learnt.
+```
 
 
   
@@ -79,7 +133,7 @@ Through the following I deliver and improve digital experiences.
 
 ### Where you were able to create effective change and improve products or ways of working.
 
-```
+
 Discovery
 
 It was identitified that the main booking interface for booking onto a university open day was on a legacy platform that needed to be removed. The booking interface required multiple levels of session types for the user to book plus relational sessions and personal itinary management. The interface was integrated with a non-documented legacy CRM system so this added another level of complexity. I decided to look at this as the legacy systems and design were non-supported yet open day attendance was the highest converter for new students.
@@ -111,18 +165,20 @@ Against comparable activity mobile conversion almost doubled 20.3% > 38.84% and 
 Improved accessibility scoring (AA)
 New product is being integrated as part of a new CRM project with further optimisation.
 
-
-
-
-
-
-
-  
-  
-  
-  
+```
 
 ### How you contributed to ensuring effective decisions are made and actioned to ensure delivery of work.
+
+Study Here
+```
+The CAR approach
+Context - Explain the situation; what, where and when. Simply describe the challenge that you faced. Give the reader some background, just enough to set the scene.
+
+Actions - Make sure that you explain how you did something not just what you did. What action or steps did you take? How did you do it? For some jobs, it might be quite detailed, but don’t talk about every single thing. Summarise as best as you can.
+
+Results - What was the outcome? What results did you achieve? Talk about the results. Use numbers and percentages whenever possible. Remember if your result is not positive, describe what you have learnt.
+```
+
 
 
 

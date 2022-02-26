@@ -167,6 +167,26 @@ Actions - Make sure that you explain how you did something not just what you did
 Results - What was the outcome? What results did you achieve? Talk about the results. Use numbers and percentages whenever possible. Remember if your result is not positive, describe what you have learnt.
 ```
 
+Context
+One of the key products I have responsibility for is the recruitment of students area of the website. Part of the challenge was the reduction of the core area which had grown after constant use for around 5 years. This challenge required continual collaboration with multiple stakeholders to establish a new product in an existing strategy.
+
+What I did
+- Ensured there was a visible plan for stakeholders to monitor
+- pdates on progress of workshops and discovery sessions
+- Ensured all tasks were captured in JIRA 
+- Created a sprint plan with phased milestones
+- Established the key decision making group
+- Communicated sprint progress and completed actions reports to stakeholder
+- established standups with multi-functional team
+
+Results
+Successful delivery of new area including 
+- Updated journey content
+- New content page patterns established
+- Navigation components developed, tested and delivered
+- Measurement and monitoring plan agreed
+
+
 
 
 

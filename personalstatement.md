@@ -18,7 +18,7 @@ Results - What was the outcome? What results did you achieve? Talk about the res
 ```
 
   
-Collaborate. Deliver. Reflect. Improve
+```Collaborate. Deliver. Reflect. Improve```
 
 ## What tools, agile techniques and processes have you used in an multi-functional team to ensure everyone is involved and high-performing.
 
@@ -60,29 +60,18 @@ Through the following I deliver and improve digital experiences.
 - Analytics and experiments - deducing as a team the way forward. Discussing experience and tests which can define the forward direction together.
 
 
-  
-  
-  
-
-
-
-
-
 ### How you engaged a variety of stakeholders to agree on work you’ve been responsible for.
 
-- Conducted competitor analysis or market scanning, and created actions or recommendations
+```- Conducted competitor analysis or market scanning, and created actions or recommendations
 - Define a product or service vision
 - Described how a product or service vision contributes to the wider business goals
 - Created or updated a product strategy, including a value proposition (e.g. business model canvas)
 - Created or updated a product roadmap, including outcomes and performance goals
 - Identified and analysed stakeholders
 - Created and communicated stakeholder comms
-  - Represented or evangelised for my product or service outside of my department or organisation
+  - Represented or evangelised for my product or service outside of my department or organisation```
 
 Research
-```
-The CAR approach
-Context - Explain the situation; what, where and when. Simply describe the challenge that you faced. Give the reader some background, just enough to set the scene.
 ```
 
 I was tasked with analysing the orgainsations digital research offer with a view to rebuilding its digital presence. The challenge was to rebuild over 30 separate sub-sites which were being restructured under three virtual institutes with no real presence. The vision was to use digital to demonstrate a ‘viable, active and credible’ research establishment and community.
@@ -112,14 +101,13 @@ MVP scope to be scaled across sub-sites
 - a focus on accessibility
 
 I presented a phased plan and roadmap including
-- high level goals
-- measurement plan
+- potential high level goals
+- proposed measurement plan
 - build priority order
-- 
+- proposed communications topics and plans
 
-
-
-
+Outcomes
+The deck was agreed and a working group with designated staff to support delivery decision making was put in place. The project was delivered in 2021 with over 20 sites and 3000 pages rebuilt in optimised templates. The project delivery did slip and I would put this down to there being a high-lvel of consultancy which slowed delivery.
 
 
 ```Results - What was the outcome? What results did you achieve? Talk about the results. Use numbers and percentages whenever possible. Remember if your result is not positive, describe what you have learnt.
@@ -170,7 +158,7 @@ New product is being integrated as part of a new CRM project with further optimi
 ### How you contributed to ensuring effective decisions are made and actioned to ensure delivery of work.
 
 Study Here
-```
+
 The CAR approach
 Context - Explain the situation; what, where and when. Simply describe the challenge that you faced. Give the reader some background, just enough to set the scene.
 

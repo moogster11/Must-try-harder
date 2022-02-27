@@ -1,21 +1,21 @@
 
 
 An experienced digital design leader, with mulitple sector experience of delivering and managing digital products in complex and pressured environments. 
-Proven track record in delivering digital transformational change through managing high performing multi-functional teams, cultivating the environment for collaboration, inspiring confidence, problem solving and pragmatism. Extensive experience in defining the case for digital change and delivering solutions, confirming alignment with organisational goals and ensuring customers needs remain central to the proposed programmes of work and solutions. A clear communicator with the ability to make the complex simple, build relationships, influence, inspire, challenge and collaborate across all levels of an organisation and motivate teams to deliver quality digital outcomes.
+Proven track record in delivering digital change through managing high performing multi-functional teams, cultivating the environment for collaboration, inspiring confidence, problem solving and pragmatism. Extensive experience in defining the case for digital change and delivering solutions, confirming alignment with organisational goals and ensuring customers needs remain central to the proposed programmes of work and solutions. A clear communicator with the ability to make the complex simple, build relationships, influence, inspire, challenge and collaborate across all levels of an organisation and motivate teams to deliver quality digital outcomes.
 
 ### Key digital projects delivered
 
-**Design and delivery and management of**
-- Main website backlog creation and management
-- Online prospectus. Helping prospective students find the right course and study option for them.
-- Organisation research offer journeys. Connecting our research touchpoints, from staff to projects to research centres to institutes
-- Prospective students 'Why study' area. Why should I choose this organisation to study with
+**Design, delivery and management of**
+- Main website backlog and management
+- Online prospectus - Helping prospective students find the right course and study option for them.
+- Research experience - Demonstrating our research environment, from staff to projects, research centres and institutes
+- Prospective students 'Why study' area - Why should I choose this univeristy to study with
 - Current students support services. Helping users find the right support information and service.
 - Current students support knowledgebase optimisation. Improving the standard and findability of support information.
 - Sheffield Hallam University design system
-- Staff profiles integration
-- SHU homepage delivery and optimisation
-- New student onboarding journey
+- Staff profiles integration - dynamically linking academic staff to business objectives
+- SHU homepage delivery and optimisation - Homepage with over 20 million views per year
+- New student onboarding journey - 
 - PHD enquiry methods optimisation
 - Accessibility roadmap and monitoring
 - Design and optimisation of event management and booking product

@@ -13,18 +13,30 @@ A clear communicator with the ability to make the complex simple, build relation
 ### Key digital projects delivered
 
 **Design and delivery and management of**
-- Main website backlog creation and management
-- Online prospectus
-- Organisation research offer journeys
-- Prospective students Study Area
-- Current students support services
-- Current students support knowledgebase optimisation
-- Sheffield Hallam University design system
-- Staff profiles integration
-- SHU homepage
-- New student onboarding journey
-- PHD enquiry methods optimisation
-- Accessibility roadmap and improvements
+Main website backlog creation and management
+- 
+
+Online prospectus
+
+Organisation research offer journeys
+- 
+Prospective students Study Area
+- 
+Current students support services
+- 
+Current students support knowledgebase optimisation
+- 
+Sheffield Hallam University design system
+- 
+Staff profiles integration
+- 
+SHU homepage
+- 
+New student onboarding journey
+- 
+PHD enquiry methods optimisation
+- 
+Accessibility roadmap and improvements
 
 ### Career History
 

@@ -10,33 +10,44 @@ Proven track record in delivering large scale digital transformational change th
 Extensive experience in defining the case for digital change and delivering solutions, confirming alignment with organisational goals and ensuring customer needs remain central to the proposed programmes of work and solutions. 
 A clear communicator with the ability to make the complex simple, build relationships, influence, challenge and collaborate across all levels of an organisation and motivate teams to deliver quality design outcomes.
 
-### Key digital projects delivered
+### Key digital projects 
 
 **Design and delivery and management of**
 Main website backlog creation and management
-- 
 
 Online prospectus
+- Helping users find courses
 
 Organisation research offer journeys
-- 
+- Improving the research digital journey
+
 Prospective students Study Area
-- 
+- Helping students chose a university
+
 Current students support services
-- 
+- Helping users find the right support
+
 Current students support knowledgebase optimisation
-- 
+- Improving support information and journeys
+
 Sheffield Hallam University design system
-- 
+- Documenting and scaling design standrds
+
 Staff profiles integration
-- 
+- Improving staff profiles
+
 SHU homepage
-- 
+- Supporting users to navigate to the right content
+
 New student onboarding journey
-- 
+- Onboarding new students to their new life
+
 PHD enquiry methods optimisation
-- 
+- Improving how enquiries are managed
+
 Accessibility roadmap and improvements
+- Making the website accessible for all
+-
 
 ### Career History
 
@@ -48,7 +59,7 @@ Head of Digital Experience
 
 ### Responsible for
 
-- Reporting to board level on the design and delivery of key strategic digital design projects
+- Reporting to board level on the design and delivery of key strategic digital projects
 
 - Lead on the delivery of discovery sessions with key stakeholders
 
